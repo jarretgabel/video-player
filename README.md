@@ -1,4 +1,4 @@
-# ESPN Video Player demo page
+# Video Player demo page
 
 This is a demo page to test why some videos are working and some are not in the video player.
 
