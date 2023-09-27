@@ -1,0 +1,28 @@
+{
+  "files.exclude": {
+    "**/.git": true,
+    "**/.svn": true,
+    "**/.hg": true,
+    "**/CVS": true,
+    "**/.DS_Store": true,
+    "**/Thumbs.db": true,
+    "**/resources": true,
+    "node_modules": true,
+    "package-lock.json": true,
+    "config.toml": true,
+    "babel.config.js": true,
+    ".hugo_build.lock": true,
+    ".gitignore": true,
+    ".vscode": true,
+    "assets/jsconfig.json": true
+  },
+  "hide-files.files": [
+    "package-lock.json",
+    "config.toml",
+    "babel.config.js",
+    ".hugo_build.lock",
+    ".gitignore",
+    ".vscode",
+    "assets/jsconfig.json"
+  ]
+}

@@ -1,0 +1,6 @@
+baseURL = ""
+title = "230701_vs_my-wish"
+
+[security]
+	[security.exec]
+		allow = ['^go$', '^npx$', '^postcss$', '^babel$']
